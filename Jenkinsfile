@@ -1,6 +1,6 @@
 @Library('roboshop') _
 
-env.COMPONENT="cart"
+env.COMPONENT="payment"
 env.APP_TYPE="python"
 mainCI()
 
